@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: karinenrb/gitopsfc
-  newTag: a10858e3ea08a53cf22eeb7ab256e9b58c539e17
+  newTag: 04e0e72dea7e7b6f8c8c2e87c7d83ad593e4b688
